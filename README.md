@@ -1,6 +1,6 @@
 # Baseball
 
-This directory contains 2 SQL files and the two result sets for them.
+This directory contains two SQL files and the two result sets for them.
 
 ## sp_StandardPitching
 
